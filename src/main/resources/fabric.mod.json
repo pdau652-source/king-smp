@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "king-esp",
+  "version": "1.0.0",
+  "name": "King ESP",
+  "description": "ESP cho amethyst, observer, piston, crafter, bee nest va entity.",
+  "authors": ["King"],
+  "environment": "client",
+  "entrypoints": { "meteor": ["com.king.addon.KingAddon"] },
+  "depends": { "meteor-client": "*" }
+}
